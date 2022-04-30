@@ -5,7 +5,7 @@
 <!-- Here are some ideas to get you started: -->
 
  - 🔭 I’m currently working on 
-      -Build a solution to the African Commerce Space
+      -Building a solution for the African Commerce Space
 
 - 🌱 I’m currently learning ...
     -  Understanding the startup space
