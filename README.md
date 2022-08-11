@@ -27,5 +27,5 @@
 <!-- - ⚡ Fun fact: ... -->
 
 
-<!-- ![](https://github.com/justbriang/stats/blob/master/generated/overview.svg) -->
+![](https://github.com/justbriang/stats/blob/master/generated/overview.svg)
 ![](https://github.com/justbriang/stats/blob/master/generated/languages.svg)
