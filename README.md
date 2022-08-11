@@ -27,6 +27,6 @@
 <!-- - ⚡ Fun fact: ... -->
 
 
-<--![](https://github.com/justbriang/stats/blob/master/generated/overview.svg)-->
-[![Brian's github stats](https://github-readme-stats.vercel.app/api?username=justbriang&theme=blue-green)](https://github.com/justbriang/github-readme-stats)
-![](https://github.com/justbriang/stats/blob/master/generated/languages.svg)
+<-- ![](https://github.com/justbriang/stats/blob/master/generated/overview.svg) -->
+< -- [![Brian's github stats](https://github-readme-stats.vercel.app/api?username=justbriang&theme=blue-green)](https://github.com/justbriang/github-readme-stats)-- >
+[![Brians's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justbriang&theme=blue-green)](https://github.com/justbriang/github-readme-stats)
