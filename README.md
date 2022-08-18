@@ -27,6 +27,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justbriang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justbriang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justbriang&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=justbriang&theme=github)
+<!-- - ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=justbriang&theme=github)-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=justbriang&theme=github)
 
